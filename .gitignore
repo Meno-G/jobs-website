@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+.env
+.env*.local
+
+/src/generated/
+/.postgres-data/
+/.postgres-data.log
+/storage/
+
+npm-debug.log*
+.DS_Store
